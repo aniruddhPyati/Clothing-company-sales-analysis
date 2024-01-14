@@ -7,6 +7,7 @@ Tools Used :
 
 SQL, MS Excel
 
+
 Preview :
 
 ![image](https://github.com/aniruddhPyati/Clothing-company-sales-analysis/assets/90457264/35251924-1468-46ca-ba4e-3b640cebd222)
