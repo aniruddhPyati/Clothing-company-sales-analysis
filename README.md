@@ -8,6 +8,12 @@ Tools Used :
 SQL, MS Excel
 
 
+File Details :
+
+1. shopping_trends_updated.csv - This is the dataset that is used for this project
+2. sales_viz.xlsx - This is the excel file used for data visualization
+3. data.sql - These 10 sql files contain 10 different queries, each providing a differnet insight 
+
 
 Preview :
 
